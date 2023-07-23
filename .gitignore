@@ -1,0 +1,5 @@
+server/src/models
+server/.idea
+server/.venv
+
+client/node_modules
